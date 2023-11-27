@@ -29,7 +29,10 @@ recognition, which enhances the accuracy and efficiency of surveillance.
 
 - Saturday 6 PM - 6:45 PM 
 ## System Infrastructure
+<img width="983" alt="infra" src="https://github.com/romitganjoo/Drone-Surveillance-Management/assets/38883745/aeebd7ac-3925-41f3-bc9d-ac14cb79177d">
 
 ## Cloud Environment
+<img width="833" alt="dms" src="https://github.com/romitganjoo/Drone-Surveillance-Management/assets/38883745/a939b1ff-42a5-402c-9836-c9572f081bcc">
 
 ## Database Design
+<img width="807" alt="database" src="https://github.com/romitganjoo/Drone-Surveillance-Management/assets/38883745/25be78bf-24d0-4929-8515-d217d78769ab">
