@@ -11,6 +11,7 @@ recognition, which enhances the accuracy and efficiency of surveillance.
 ## Authors
 - Romit Ganjoo
 - Debasish Panigrahi
+- [@Debasish Panigrahi](https://github.com/debapani297)
 - Priyanka Vaidya
 
 
