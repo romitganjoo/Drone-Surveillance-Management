@@ -9,8 +9,7 @@ recognition, which enhances the accuracy and efficiency of surveillance.
 # 
 
 ## Authors
-- Romit Ganjoo
-- Debasish Panigrahi
+- [@Romit Ganjoo](https://github.com/romitganjoo)
 - [@Debasish Panigrahi](https://github.com/debapani297)
 - Priyanka Vaidya
 
