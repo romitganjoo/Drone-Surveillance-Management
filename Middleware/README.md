@@ -1,2 +1,2 @@
-# CMPE-281--AV-Rental
-Group Project CMPE-281--AV-Rental
+# CMPE-281--
+Group Project CMPE-281
